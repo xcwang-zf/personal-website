@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-This is Xinchang, an economics undergraduate at Wuhan University. In the future I plan to apply for a Ph.D. degree in economics, specializing in labor economics and urban development. I'm also a Chinese modern poet who have composed more than 100 poems. Among those distinguished poets, I especially love Haizi, Yeats and Gucheng.
+This is Xinchang, an economics undergraduate at Wuhan University who is considering transfer now. In the future I plan to apply for a Ph.D. degree in economics, specializing in labor economics and urban development. I'm also a Chinese modern poet who have composed more than 100 poems. Among those distinguished poets, I especially love Haizi, Yeats and Gucheng.
 
 
