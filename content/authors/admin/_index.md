@@ -27,13 +27,13 @@ interests:
 education:
   courses:
   - course: Wuhan University - Economics
-    institution: 2019-present
+    institution: 2019 - present
     year: 
   - course: Changsha Changjun High School
-    institution: 2016-2019
+    institution: 2016 - 2019
     year: 
   - course: Changsha Changjun Bilingual School
-    institution: 2013-2016
+    institution: 2013 - 2016
     year: 
 
 # Social/Academic Networking
