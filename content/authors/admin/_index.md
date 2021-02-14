@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinchang Wang 王欣畅
+title: Xinchang Wang   王欣畅
 
 # Is this the primary user of the site?
 superuser: true
