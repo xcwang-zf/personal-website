@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xinchang Wang 王欣畅
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Wuhan University
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My academic interests include urban development, labor economics and political economics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Urban Development
+- Labor Economics
+- Political Economics
+- Applied Microeconomics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Wuhan University - Economics
+    year: 2019-present
+  - course: Changsha Changjun High School
+    institution: 
+    year: 2016-2019
+  - course: Changsha Changjun Bilingual School
+    institution: 
+    year: 2013-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
